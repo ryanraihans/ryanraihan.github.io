@@ -14,3 +14,9 @@ https://ryanraihans.github.io/ryanraihan.github.io/BelajarCSS/BelajarMediaQuery/
 https://ryanraihans.github.io/ryanraihan.github.io/BelajarCSS/BelajarFlex/belajarflex
 
 #Belajar Framework
+
+https://ryanraihans.github.io/ryanraihan.github.io/BelajarFramework/index
+https://ryanraihans.github.io/ryanraihan.github.io/BelajarFramework/musium
+https://ryanraihans.github.io/ryanraihan.github.io/BelajarFramework/artikel
+
+#Belajar JavaScript
