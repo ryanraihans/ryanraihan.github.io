@@ -20,3 +20,4 @@ https://ryanraihans.github.io/ryanraihan.github.io/BelajarFramework/musium
 https://ryanraihans.github.io/ryanraihan.github.io/BelajarFramework/artikel
 
 #Belajar JavaScript
+Untuk Belajar JavaScript dapat dilihat pada BelajarJS/MenjalankanJS/app.js dan BelajarJS/MenjalankanJS/app2.js
