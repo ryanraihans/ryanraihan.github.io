@@ -25,3 +25,7 @@ Untuk Belajar JavaScript dapat dilihat pada BelajarJS/MenjalankanJS/app.js dan B
 #Belajar JavaScript DOM
 
 https://ryanraihans.github.io/ryanraihan.github.io/BelajarJSDOM/HitungScore/index
+
+#Belajar JavaScript Asynchronous
+
+https://ryanraihans.github.io/ryanraihan.github.io/BelajarJSAsync/backgroundchanger/index
