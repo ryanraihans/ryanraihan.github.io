@@ -29,3 +29,7 @@ https://ryanraihans.github.io/ryanraihan.github.io/BelajarJSDOM/HitungScore/inde
 #Belajar JavaScript Asynchronous
 
 https://ryanraihans.github.io/ryanraihan.github.io/BelajarJSAsync/backgroundchanger/index
+
+#Belajar AJAX dan Web API
+
+https://ryanraihans.github.io/ryanraihan.github.io/BelajarAJAX/index
