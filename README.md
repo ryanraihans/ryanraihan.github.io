@@ -30,6 +30,9 @@ https://ryanraihans.github.io/ryanraihan.github.io/BelajarJSDOM/HitungScore/inde
 
 https://ryanraihans.github.io/ryanraihan.github.io/BelajarJSAsync/backgroundchanger/index
 
+#Belajar OOP
+Untuk Belajar OOP dapat dilihat pada BelajarOOP/app.js
+
 #Belajar AJAX dan Web API
 
 https://ryanraihans.github.io/ryanraihan.github.io/BelajarAJAX/index
