@@ -46,3 +46,12 @@ https://ryanraihans.github.io/ryanraihan.github.io/BelajarAJAX/index
 
 Untuk Belajar OOP dapat dilihat pada BelajarOOP/app.js
 
+#Belajar JQuery
+
+https://ryanraihans.github.io/ryanraihan.github.io/BelajarJQuery/index
+
+https://ryanraihans.github.io/ryanraihan.github.io/BelajarJQuery/index1
+
+https://ryanraihans.github.io/ryanraihan.github.io/BelajarJQuery/index2
+
+https://ryanraihans.github.io/ryanraihan.github.io/BelajarJQuery/index3
