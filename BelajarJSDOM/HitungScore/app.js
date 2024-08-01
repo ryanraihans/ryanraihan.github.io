@@ -62,10 +62,10 @@ resetbutton.addEventListener('click', reset);
 winpointoption.addEventListener('change', function() {
     winpoint = parseInt(this.value);
     if (winpoint == 15 ){
-        winpoint = winpoint
+        winpoint = 15
     }
     if (winpoint == 10 ){
-        winpoint = winpoint
+        winpoint = 10
     }
     reset();
 });
